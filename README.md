@@ -17,10 +17,9 @@
 ![HTML5](https://img.shields.io/badge/-HTML5-05122A?style=flat&logo=html5)
 ![CSS3](https://img.shields.io/badge/-CSS3-05122A?style=flat&logo=css3)
 
----
 
-### 📊 **Most Used Languages:**
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KaoutarDaoui&layout=compact&theme=dark&hide=HTML,CSS&langs_count=4)
+
+
 
 
 
