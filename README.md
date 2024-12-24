@@ -2,9 +2,16 @@
 
 ### - 🔭 I’m currently studying at **Ecole Nationale Supérieure d'Informatique (ESI)**, specializing in Computer Science, with a focus on Data Science and Software Development.
 
+
 ### - 🌱 I’m currently learning new programming languages and improving my skills in **Data Science** and **Software Development**.
 
+
+
+
 📫 **Contact me:** [mk_daoui@esi.dz](mailto:mk_daoui@esi.dz)
+
+
+
 
 ### 🚀 **Technologies & Tools:**
 ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=java)
