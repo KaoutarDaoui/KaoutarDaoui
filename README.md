@@ -29,6 +29,7 @@
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)
 ![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql)
 ![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=cplusplus)
+![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=cplusplus)
 ![HTML5](https://img.shields.io/badge/-HTML5-05122A?style=flat&logo=html5)
 ![CSS3](https://img.shields.io/badge/-CSS3-05122A?style=flat&logo=css3)
 
