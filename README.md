@@ -28,6 +28,7 @@
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)
 ![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql)
+![SQL](https://img.shields.io/badge/-SQL-05122A?style=flat&logo=sql)
 ![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=cplusplus)
 ![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=c)
 ![HTML5](https://img.shields.io/badge/-HTML5-05122A?style=flat&logo=html5)
