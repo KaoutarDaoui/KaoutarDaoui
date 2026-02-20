@@ -1,39 +1,33 @@
 # Hello 👋, I'm Kaoutar Daoui
+![Profile Views](https://komarev.com/ghpvc/?username=KaoutarDaoui&color=7c6af7&style=for-the-badge)
 
-![Profile Views](https://komarev.com/ghpvc/?username=KaoutarDaoui&color=blue&style=flat)
-
-### - 🔭 I'm currently studying at **Ecole Nationale Supérieure d'Informatique (ESI)**, specializing in Computer Science, with a focus on Data Science and Software Development.
-### - 🌱 I'm currently learning new programming languages and improving my skills in **Data Science** and **Software Development**.
+### 🔭 Currently studying at **ESI** — Computer Science · Data Science · Software Dev
+### 🌱 Currently leveling up in **Flutter · AI/ML · Data Science**
 
 📫 **Contact me:** [mk_daoui@esi.dz](mailto:mk_daoui@esi.dz)
 
 ---
 
-### 🚀 **Technologies & Tools:**
+### 🚀 Technologies & Tools
 
-![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=java)
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)
-![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)
-![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)
-![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql)
-![SQL](https://img.shields.io/badge/-SQL-05122A?style=flat&logo=sql)
-![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=cplusplus)
-![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=c)
-![HTML5](https://img.shields.io/badge/-HTML5-05122A?style=flat&logo=html5)
-![CSS3](https://img.shields.io/badge/-CSS3-05122A?style=flat&logo=css3)
-![Flutter](https://img.shields.io/badge/-Flutter-05122A?style=flat&logo=flutter)
-![Dart](https://img.shields.io/badge/-Dart-05122A?style=flat&logo=dart)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 ---
 
-### 🤖 **AI & Data Science Tools:**
+### 🤖 AI & Data Science
 
-![Scikit-Learn](https://img.shields.io/badge/-Scikit--Learn-05122A?style=flat&logo=scikit-learn)
-![Pandas](https://img.shields.io/badge/-Pandas-05122A?style=flat&logo=pandas)
-![NumPy](https://img.shields.io/badge/-NumPy-05122A?style=flat&logo=numpy)
-![Jupyter](https://img.shields.io/badge/-Jupyter-05122A?style=flat&logo=jupyter)
-
-<!--
-**KaoutarDaoui/KaoutarDaoui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
