@@ -1,7 +1,7 @@
 # Hello 👋, I'm Kaoutar Daoui
 ![Profile Views](https://komarev.com/ghpvc/?username=KaoutarDaoui&color=7c6af7&style=for-the-badge)
 
-### 🔭 Currently studying at **ESI** — Computer Science · Data Science · Software Dev
+### 🔭 Currently studying at **ESI** . Computer Science · Data Science · Software Dev
 ### 🌱 Currently leveling up in **Dev & AI**
 📫 **Contact me:** [mk_daoui@esi.dz](mailto:mk_daoui@esi.dz)
 
