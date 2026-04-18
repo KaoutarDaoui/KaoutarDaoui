@@ -7,7 +7,7 @@
 - **Study** &nbsp; École Nationale Supérieure d'Informatique — Algiers
 - **Focus** &nbsp; Explainable AI · Multi-agent architectures · AI-powered systems
 - **Email** &nbsp; [mk_daoui@esi.dz](mailto:mk_daoui@esi.dz)
-- **Web** &nbsp;&nbsp;&nbsp; [portfolio-kaoutar-daoui.vercel.app](https://portfolio-kaoutar-daoui.vercel.app/)
+- **Portfolio** &nbsp;&nbsp;&nbsp; [portfolio-kaoutar-daoui.vercel.app](https://portfolio-kaoutar-daoui.vercel.app/)
 
 ---
 
