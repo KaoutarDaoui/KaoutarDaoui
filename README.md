@@ -34,10 +34,6 @@
 ![RAG](https://img.shields.io/badge/RAG-6B46C1?style=for-the-badge&logoColor=white)
 ![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
 ![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6B35?style=for-the-badge&logoColor=white)
-![Claude API](https://img.shields.io/badge/Claude%20API-CC785C?style=for-the-badge&logoColor=white)
-![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-4A154B?style=for-the-badge&logoColor=white)
-![Embeddings](https://img.shields.io/badge/Embeddings-0081A7?style=for-the-badge&logoColor=white)
-
 ---
 
 ### Web · Mobile
